@@ -10,8 +10,9 @@ I'm a AI Backend Development Engineer who specializes in Speech Dialogue Platfor
 
 ## Tech Stack
 
-- [Java]
-- [Python]
+- Programming Languages: Java, Python
+- Web Development: Springboot, Tornado
+- Databases: MySQL, MongoDB, Redis, ES
 
 ## Contact Me
 
