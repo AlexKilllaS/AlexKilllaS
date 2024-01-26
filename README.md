@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me
 
-I'm a AI Backend Development Engineer who specializes in Speech Dialogue Platform. 
+AI Backend Development Engineer who specializes in Speech Dialogue Platform. 
 
 ## Tech Stack
 
